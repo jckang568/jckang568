@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![About](https://img.shields.io/badge/About-8A2BE2)
+- 🔭 I'm currently maintaining a warranty-related application.
+- 🌱 I'm currently studying the fundamentals of Java and Spring.
+- 👯 I'm looking to collaborate on creating sustainable software solutions.
+- 🤔 I'm looking for help with optimizing the performance of the web application I'm working on.
+- 💬 Ask me about my experience with fault tolerance systems.
+- 📫 How to reach me: Feel free to send me a message via email at jckang568@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing Factorio!
+
 <!--
 **jckang568/jckang568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
